@@ -1,3 +1,3 @@
 color = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
   
-  puts display_rainbow "Rainbow: {colro[0]} "
+  puts display_rainbow "Rainbow: {colro[0]}"
